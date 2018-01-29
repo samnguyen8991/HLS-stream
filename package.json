@@ -1,0 +1,16 @@
+{
+  "name": "hls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "serverless": "1.25.0",
+    "moment": "2.20.1",
+    "fs": "0.0.1-security"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minh Nguyen",
+  "license": "ISC"
+}
